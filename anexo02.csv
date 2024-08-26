@@ -1,0 +1,591 @@
+Lugar ,Especie,Tamaño,Peso,VidaPromedio,Camada,CicloRepr,Calidad de la carne
+Cantabria,Cabra,176,28,18,3,155,1
+Badajoz,Cabra,173,100,13,2,149,1
+Guadalajara,Cabra,167,124,13,3,152,1
+Cataluña,Cabra,163,43,19,1,149,3
+Almería,Cabra,162,80,13,3,150,1
+Girona,Cabra,158,111,15,1,148,5
+Ávila,Cabra,158,144,14,1,154,4
+Canarias,Cabra,153,42,17,3,154,4
+Granada,Cabra,141,116,17,1,148,1
+Soria,Cabra,138,108,20,1,154,5
+Sevilla,Cabra,125,113,17,1,148,1
+Galicia,Cabra,122,121,13,3,153,4
+Alicante,Cabra,120,42,20,1,154,1
+Castellón,Cabra,117,24,16,1,154,3
+Albacete,Cabra,108,108,17,2,150,1
+Navarra,Cabra,92,76,20,2,155,4
+Málaga,Cabra,87,58,16,1,156,5
+Araba,Cabra,86,144,15,3,155,2
+Madrid,Cabra,85,61,12,1,148,5
+Gipuzkoa,Cabra,84,96,15,2,150,2
+Palencia,Cabra,84,102,15,2,156,1
+Castilla y León,Cabra,81,84,15,2,148,4
+Huesca,Cabra,76,124,15,3,149,2
+Murcia,Cabra,74,38,14,2,150,5
+Huelva,Cabra,72,120,15,1,151,2
+Comunitat Valenciana,Cabra,70,27,19,3,148,4
+Andalucía,Cabra,70,134,20,2,156,3
+Ourense,Cabra,66,45,17,2,149,1
+Lugo,Cabra,60,20,20,2,148,5
+Zaragoza,Cabra,57,50,19,1,153,5
+País Vasco,Cabra,56,57,16,2,148,3
+Aragón,Cabra,56,110,17,1,154,4
+Asturias,Cabra,48,70,17,1,150,3
+Lleida,Cabra,44,28,19,1,149,3
+Cuenca,Cabra,42,67,14,1,149,5
+Extremadura,Cabra,42,46,13,1,152,2
+Córdoba,Cabra,42,123,20,2,153,5
+Jaén,Cabra,41,103,20,1,156,3
+Barcelona,Cabra,38,49,13,3,148,1
+La Rioja,Cabra,36,71,13,1,149,2
+Ciudad Real,Cabra,36,36,20,2,154,4
+Balears,Cabra,29,40,19,2,148,2
+"Coruña, A",Cabra,27,28,18,1,148,4
+Santa Cruz,Cabra,26,20,19,3,154,1
+Burgos,Cabra,25,99,20,3,156,5
+Cáceres,Cabra,23,147,12,3,149,5
+Bizkaia,Cabra,23,48,13,2,154,4
+León,Cabra,23,149,18,1,155,4
+Tarragona,Cabra,22,44,19,1,151,4
+Valencia,Cabra,21,113,15,2,150,5
+Castilla La Mancha,Cabra,19,70,15,2,150,5
+Valladolid,Cabra,12,91,20,2,148,2
+Cádiz,Cabra,12,49,13,1,151,1
+Teruel,Cabra,12,96,16,3,153,5
+Zamora,Cabra,10,39,20,1,152,2
+Salamanca,Cabra,10,137,19,1,153,2
+Palmas,Cabra,10,72,16,3,156,4
+Segovia,Cabra,9,49,18,2,148,4
+Pontevedra,Cabra,5,138,16,2,155,4
+Palmas,Avestruz,2.70,74,31,2.0,47,1
+Segovia,Avestruz,2.70,80,36,2.0,48,5
+Ávila,Avestruz,2.60,65,36,4.0,48,3
+Ourense,Avestruz,2.60,145,46,4.0,48,5
+Salamanca,Avestruz,2.60,80,49,5.0,48,3
+Jaén,Avestruz,2.60,108,39,4.0,50,3
+Huelva,Bufalo,2.60,814,16,1,290,4
+Valencia,Bufalo,2.60,741,20,1,304,4
+Burgos,Bufalo,2.60,611,18,1,325,5
+País Vasco,Bufalo,2.60,649,20,1,325,3
+Castellón,Bufalo,2.50,950,20,1,284,2
+Castellón,Avestruz,2.40,109,48,5.0,45,4
+Valladolid,Avestruz,2.40,128,39,1.0,47,2
+Madrid,Avestruz,2.40,90,48,3.0,47,3
+Girona,Avestruz,2.40,101,50,5.0,49,5
+Ciudad Real,Bufalo,2.40,900,15,1,285,3
+La Rioja,Bufalo,2.40,343,17,1,286,2
+Santa Cruz,Bufalo,2.40,669,20,1,305,5
+León,Bufalo,2.40,490,20,1,309,5
+Extremadura,Bufalo,2.40,885,21,1,332,3
+Cantabria,Bufalo,2.40,956,19,1,334,3
+León,Avestruz,2.30,140,32,1.0,45,5
+Canarias,Avestruz,2.30,94,34,3.0,45,1
+"Coruña, A",Avestruz,2.30,137,48,3.0,45,5
+Guadalajara,Avestruz,2.30,63,34,5.0,46,2
+Teruel,Avestruz,2.30,125,34,5.0,46,3
+Cataluña,Avestruz,2.30,103,49,5.0,46,4
+Zaragoza,Avestruz,2.30,147,34,3.0,48,5
+Almería,Avestruz,2.30,137,31,2.0,49,5
+País Vasco,Avestruz,2.30,85,31,3.0,49,2
+La Rioja,Avestruz,2.30,81,40,5.0,50,3
+Galicia,Bufalo,2.30,674,18,1,292,3
+Comunitat Valenciana,Bufalo,2.30,528,20,1,298,3
+Girona,Bufalo,2.30,385,19,1,299,1
+Huesca,Bufalo,2.30,615,16,1,313,2
+Pontevedra,Bufalo,2.30,867,22,1,314,4
+Cáceres,Bufalo,2.30,390,16,1,315,1
+Asturias,Bufalo,2.30,797,16,1,315,2
+Segovia,Bufalo,2.30,929,16,2,319,4
+Cáceres,Avestruz,2.20,98,50,1.0,48,4
+Lleida,Avestruz,2.20,105,44,2.0,48,4
+Castilla y León,Avestruz,2.20,141,44,1.0,49,2
+Murcia,Avestruz,2.20,141,43,5.0,50,4
+Salamanca,Bufalo,2.20,972,21,1,287,4
+Aragón,Bufalo,2.20,594,15,1,289,5
+Jaén,Bufalo,2.20,822,20,1,301,1
+Castilla y León,Bufalo,2.20,625,17,1,316,2
+Ourense,Bufalo,2.20,586,22,1,322,1
+Gipuzkoa,Bufalo,2.20,903,15,1,325,3
+Ciudad Real,Avestruz,2.10,66,39,3.0,45,5
+Alicante,Avestruz,2.10,73,31,5.0,45,2
+Palencia,Avestruz,2.00,119,45,4.0,47,5
+Huelva,Avestruz,2.00,149,44,3.0,48,3
+Huesca,Avestruz,2.00,79,39,5.0,50,3
+Castilla La Mancha,Bufalo,2.00,681,15,1,289,5
+"Coruña, A",Bufalo,2.00,541,16,1,316,1
+Barcelona,Bufalo,2.00,382,20,1,318,2
+Cataluña,Bufalo,2.00,301,16,1,329,1
+Albacete,Avestruz,1.90,128,49,4.0,45,5
+Cuenca,Avestruz,1.90,110,41,2.0,46,5
+Cantabria,Avestruz,1.90,62,45,5.0,46,4
+Araba,Avestruz,1.90,141,43,2.0,48,4
+Castilla La Mancha,Avestruz,1.90,111,35,5.0,48,5
+Cádiz,Avestruz,1.90,105,42,4.0,49,1
+Lugo,Avestruz,1.90,82,33,4.0,50,2
+Canarias,Bufalo,1.90,891,16,1,311,1
+Palmas,Bufalo,1.90,522,18,1,314,5
+Andalucía,Bufalo,1.90,857,19,1,320,3
+Ourense,Vaca,1.90,"1,037",11,8,1445,5
+Málaga,Vaca,1.90,"1,142",12,5,1444,4
+Cantabria,Vaca,1.90,856,9,15,1445,1
+Albacete,Vaca,1.90,469,11,9,1445,1
+Pontevedra,Vaca,1.90,895,15,7,1440,2
+Castilla La Mancha,Vaca,1.90,"1,070",8,8,1444,2
+Araba,Vaca,1.90,442,17,10,1444,4
+Navarra,Vaca,1.90,682,14,11,1443,3
+"Coruña, A",Vaca,1.90,577,8,16,1447,2
+Lugo,Bufalo,1.80,574,15,1,318,3
+Madrid,Bufalo,1.80,761,18,1,325,3
+Bizkaia,Bufalo,1.80,591,21,1,329,2
+Castilla y León,Oveja,1.80,44,11,1,148,1
+Pontevedra,Oveja,1.80,54,15,1,149,4
+Cáceres,Oveja,1.80,43,14,3,149,5
+Huesca,Oveja,1.80,69,9,3,150,1
+Segovia,Oveja,1.80,55,14,3,150,3
+Castellón,Oveja,1.80,53,15,2,152,1
+Araba,Oveja,1.80,39,14,3,152,4
+Guadalajara,Oveja,1.80,69,11,2,153,2
+Valencia,Oveja,1.80,49,12,3,153,5
+Bizkaia,Oveja,1.80,69,8,2,154,2
+Ávila,Vaca,1.80,734,17,9,1441,2
+Comunitat Valenciana,Vaca,1.80,"1,026",20,8,1442,2
+Soria,Vaca,1.80,944,8,14,1442,3
+Tarragona,Vaca,1.80,917,13,14,1444,3
+Zamora,Vaca,1.80,609,11,16,1446,2
+Granada,Vaca,1.80,686,14,16,1443,3
+Balears,Oveja,1.70,56,13,2,148,5
+Aragón,Oveja,1.70,49,15,3,148,3
+Cádiz,Oveja,1.70,51,8,3,149,2
+Girona,Oveja,1.70,37,15,3,150,4
+Zamora,Oveja,1.70,63,15,2,151,5
+La Rioja,Oveja,1.70,50,10,2,153,5
+Murcia,Oveja,1.70,43,15,2,153,2
+Barcelona,Oveja,1.70,47,15,3,154,5
+Jaén,Vaca,1.70,690,11,7,1445,1
+Cádiz,Vaca,1.70,439,20,8,1441,1
+Madrid,Vaca,1.70,488,15,8,1445,1
+Cáceres,Vaca,1.70,689,9,12,1444,4
+Bizkaia,Vaca,1.70,519,18,12,1446,2
+Badajoz,Vaca,1.70,790,15,15,1443,1
+La Rioja,Vaca,1.70,671,17,6,1446,5
+País Vasco,Vaca,1.70,759,18,8,1445,3
+Cuenca,Vaca,1.70,555,10,12,1444,2
+Extremadura,Vaca,1.70,670,11,5,1441,5
+Girona,Vaca,1.70,506,19,7,1445,2
+Palmas,Oveja,1.60,58,12,2,150,3
+Almería,Oveja,1.60,59,13,1,152,1
+Cantabria,Oveja,1.60,68,12,2,154,2
+Tarragona,Oveja,1.60,44,14,2,154,2
+Cuenca,Oveja,1.60,59,9,3,156,4
+Palmas,Vaca,1.60,"1,105",13,9,1446,3
+Huelva,Vaca,1.60,607,11,15,1447,2
+Salamanca,Vaca,1.60,"1,021",16,15,1446,3
+Valencia,Vaca,1.60,"1,171",9,12,1441,5
+Guadalajara,Vaca,1.60,"1,121",11,6,1446,1
+Córdoba,Vaca,1.60,930,12,11,1447,4
+Murcia,Vaca,1.60,"1,188",14,10,1442,3
+Asturias,Vaca,1.60,773,12,11,1447,4
+Burgos,Vaca,1.60,746,12,15,1440,2
+Burgos,Oveja,1.50,51,11,2,149,5
+León,Oveja,1.50,49,8,1,150,2
+Canarias,Oveja,1.50,58,15,1,151,4
+Albacete,Oveja,1.50,45,15,1,152,4
+Cataluña,Oveja,1.50,67,14,2,153,1
+Granada,Oveja,1.50,35,11,3,153,3
+Alicante,Oveja,1.50,43,15,1,156,5
+Valladolid,Vaca,1.50,497,12,10,1445,4
+Teruel,Vaca,1.50,"1,056",16,6,1445,4
+Lleida,Vaca,1.50,"1,047",8,6,1445,1
+Lugo,Vaca,1.50,"1,156",14,15,1447,2
+Cuenca,Cerdo,1.40,168,21,14,113,5
+Palmas,Cerdo,1.40,142,17,16,115,5
+Ávila,Oveja,1.40,37,13,2,148,1
+Soria,Oveja,1.40,64,13,2,148,1
+Palencia,Oveja,1.40,65,14,2,149,5
+Galicia,Oveja,1.40,68,14,2,150,4
+Gipuzkoa,Oveja,1.40,37,14,2,151,5
+Sevilla,Oveja,1.40,44,8,2,154,5
+Santa Cruz,Vaca,1.40,903,16,8,1445,3
+Castellón,Vaca,1.40,453,9,10,1447,2
+Palencia,Vaca,1.40,"1,067",12,5,1445,2
+Alicante,Vaca,1.40,465,17,14,1442,4
+Castilla y León,Vaca,1.40,"1,168",18,9,1441,3
+Balears,Vaca,1.40,426,10,13,1444,4
+Valladolid,Cerdo,1.30,171,20,10,110,5
+Canarias,Cerdo,1.30,140,19,10,113,1
+Castilla La Mancha,Cerdo,1.30,145,15,13,115,3
+Soria,Cerdo,1.30,135,19,15,115,1
+Teruel,Cerdo,1.30,144,21,16,115,2
+Sevilla,Cerdo,1.30,162,15,12,116,4
+Murcia,Cerdo,1.30,152,15,14,116,3
+"Coruña, A",Cerdo,1.30,138,18,14,116,3
+Ourense,Oveja,1.30,64,13,2,148,1
+Valladolid,Oveja,1.30,35,12,3,150,4
+Navarra,Oveja,1.30,36,9,3,151,3
+País Vasco,Oveja,1.30,54,9,3,151,5
+Salamanca,Oveja,1.30,69,12,3,151,4
+Teruel,Oveja,1.30,43,10,3,152,1
+Andalucía,Oveja,1.30,69,11,2,153,5
+Zaragoza,Oveja,1.30,60,13,2,153,3
+Badajoz,Oveja,1.30,37,11,1,154,5
+"Coruña, A",Oveja,1.30,45,14,2,154,2
+Madrid,Oveja,1.30,41,10,3,154,1
+Málaga,Oveja,1.30,48,8,2,155,4
+Comunitat Valenciana,Oveja,1.30,53,8,2,156,4
+Córdoba,Oveja,1.30,62,12,3,156,5
+Ciudad Real,Vaca,1.30,"1,121",20,10,1447,3
+Galicia,Vaca,1.30,780,12,10,1443,2
+Gipuzkoa,Vaca,1.30,769,17,9,1440,5
+León,Vaca,1.30,756,11,15,1447,5
+Cataluña,Vaca,1.30,583,19,16,1442,1
+Canarias,Vaca,1.30,867,8,7,1440,2
+Girona,Cerdo,1.20,162,15,11,110,1
+Guadalajara,Cerdo,1.20,148,21,13,110,1
+La Rioja,Cerdo,1.20,158,22,14,114,2
+Navarra,Cerdo,1.20,151,21,12,116,4
+Madrid,Cerdo,1.20,138,17,14,116,2
+Málaga,Guajolote,1.20,5,8,4,27,4
+Comunitat Valenciana,Guajolote,1.20,5,12,3,28,1
+Lleida,Guajolote,1.20,8,12,5,30,2
+Lugo,Oveja,1.20,41,15,2,149,5
+Santa Cruz,Oveja,1.20,42,12,3,149,4
+Lleida,Oveja,1.20,40,9,3,151,5
+Castilla La Mancha,Oveja,1.20,49,11,1,152,3
+Asturias,Oveja,1.20,50,11,2,152,3
+Jaén,Oveja,1.20,55,15,1,153,1
+Extremadura,Oveja,1.20,56,13,1,155,3
+Ciudad Real,Oveja,1.20,61,13,2,155,3
+Huelva,Oveja,1.20,61,15,1,156,5
+Zaragoza,Vaca,1.20,"1,101",13,13,1442,5
+Sevilla,Vaca,1.20,566,17,7,1444,3
+Barcelona,Vaca,1.20,967,11,5,1442,3
+Andalucía,Vaca,1.20,770,16,7,1444,1
+Almería,Vaca,1.20,433,11,11,1441,5
+Huesca,Vaca,1.20,486,10,14,1440,1
+Segovia,Vaca,1.20,921,20,13,1447,1
+Aragón,Vaca,1.20,"1,146",16,7,1440,2
+Barcelona,Guajolote,1.18,10,12,3,28,3
+Extremadura,Guajolote,1.18,7,11,3,29,1
+Zamora,Guajolote,1.18,4,9,6,29,4
+Bizkaia,Guajolote,1.17,11,11,4,29,2
+Girona,Guajolote,1.17,11,8,3,30,5
+Asturias,Guajolote,1.16,10,8,5,28,2
+León,Guajolote,1.14,11,12,6,30,1
+Castilla y León,Guajolote,1.13,8,12,3,27,1
+"Coruña, A",Guajolote,1.13,9,9,3,30,2
+Huelva,Guajolote,1.13,9,10,3,30,4
+Canarias,Guajolote,1.13,10,12,4,30,3
+Madrid,Guajolote,1.12,11,9,3,27,4
+Zaragoza,Guajolote,1.12,6,9,5,28,2
+Castilla La Mancha,Guajolote,1.12,4,11,6,30,3
+Barcelona,Cerdo,1.10,162,22,12,110,1
+Gipuzkoa,Cerdo,1.10,155,18,15,112,1
+Albacete,Cerdo,1.10,147,17,14,115,3
+Navarra,Guajolote,1.10,9,12,6,29,3
+Ciudad Real,Guajolote,1.09,9,10,6,27,2
+Cádiz,Guajolote,1.09,12,12,5,28,1
+Andalucía,Guajolote,1.09,7,12,4,30,3
+Burgos,Guajolote,1.08,7.0,10,3,27,4
+Castellón,Guajolote,1.08,5,8,5,28,2
+Teruel,Guajolote,1.07,9,9,5,28,1
+Alicante,Guajolote,1.03,7,11,3,27,2
+Soria,Guajolote,1.01,8,9,4,28,5
+Cataluña,Cerdo,1.00,127,16,14,110,1
+Ourense,Cerdo,1.00,151,19,16,110,1
+Santa Cruz,Cerdo,1.00,167,22,16,110,4
+Araba,Cerdo,1.00,156,17,12,111,4
+Lleida,Cerdo,1.00,163,20,14,111,5
+Alicante,Cerdo,1.00,148,17,16,114,3
+Cáceres,Cerdo,1.00,134,19,13,115,1
+Huesca,Cerdo,1.00,130,22,15,115,3
+Balears,Cerdo,1.00,126,16,11,116,1
+Granada,Cerdo,1.00,138,20,12,116,2
+Aragón,Cerdo,1.00,163,22,12,116,1
+Almería,Cerdo,1.00,125,20,14,116,5
+Burgos,Cerdo,1.00,157,17,15,116,5
+Cantabria,Guajolote,1.00,11,12,6,30,2
+Pontevedra,Guajolote,0.99,10,8,6,28,3
+Badajoz,Guajolote,0.98,7,11,4,27,5
+País Vasco,Guajolote,0.97,10,12,6,28,1
+Palmas,Guajolote,0.95,7,12,3,27,1
+Aragón,Guajolote,0.95,8,8,4,29,3
+La Rioja,Guajolote,0.93,4,8,3,30,4
+Araba,Guajolote,0.93,11,10,4,30,4
+Gipuzkoa,Guajolote,0.92,11,8,3,27,3
+Valladolid,Guajolote,0.92,8,10,3,28,2
+Valencia,Guajolote,0.91,6,8,6,27,3
+Badajoz,Cerdo,0.90,134,17,11,110,5
+Cádiz,Cerdo,0.90,168,15,13,110,2
+Málaga,Cerdo,0.90,170,20,13,110,3
+Lugo,Cerdo,0.90,127,21,14,110,5
+Salamanca,Cerdo,0.90,149,17,13,111,3
+León,Cerdo,0.90,149,20,10,114,3
+Zamora,Cerdo,0.90,142,18,14,114,3
+Palencia,Cerdo,0.90,166,21,11,116,3
+Palencia,Guajolote,0.90,4,8,4,27,3
+Murcia,Guajolote,0.90,11,9,6,28,1
+Córdoba,Guajolote,0.88,9,11,6,27,5
+Ávila,Guajolote,0.88,11,12,6,27,5
+Granada,Guajolote,0.87,6,11,3,27,2
+Cuenca,Guajolote,0.86,7,10,5,29,4
+Cataluña,Guajolote,0.85,6,8,4,28,2
+Jaén,Guajolote,0.85,11,11,6,28,2
+Salamanca,Guajolote,0.83,8,10,4,29,3
+Balears,Guajolote,0.83,10,12,6,29,1
+Tarragona,Guajolote,0.83,7,11,4,30,2
+Albacete,Guajolote,0.82,7,9,4,29,2
+Segovia,Guajolote,0.82,12,10,6,30,5
+Cáceres,Guajolote,0.82,12,10,6,30,3
+Lugo,Guajolote,0.81,11,10,5,30,2
+Zaragoza,Cerdo,0.80,125,19,11,110,4
+Pontevedra,Cerdo,0.80,134,18,14,110,5
+Ciudad Real,Cerdo,0.80,127,21,11,111,3
+Extremadura,Cerdo,0.80,129,16,15,112,4
+Huelva,Cerdo,0.80,127,17,15,113,1
+Bizkaia,Cerdo,0.80,134,18,15,114,1
+Valencia,Cerdo,0.80,158,16,14,115,5
+Ávila,Cerdo,0.80,162,22,10,116,3
+Palencia,Gallina,0.80,2.30,11,6,20,1
+La Rioja,Gallina,0.80,1.90,6,9,20,1
+Burgos,Gallina,0.80,1.60,5,9,21,2
+Teruel,Gallina,0.80,2.10,5,5,22,5
+Madrid,Gallina,0.80,2.00,5,7,22,2
+Santa Cruz,Gallina,0.80,1.70,9,9,22,5
+Ourense,Gallina,0.80,1.90,11,8,23,3
+Salamanca,Gallina,0.80,2.20,11,10,24,3
+Guadalajara,Guajolote,0.80,7,10,4,27,2
+Ourense,Guajolote,0.79,10,9,3,28,3
+Galicia,Guajolote,0.78,4,12,4,29,3
+Sevilla,Guajolote,0.77,6,11,4,30,1
+Almería,Guajolote,0.77,8,11,5,30,2
+Santa Cruz,Guajolote,0.77,6,12,6,30,3
+Huesca,Guajolote,0.76,7,10,5,30,4
+Málaga,Gallina,0.70,1.60,5,8,20,3
+Cantabria,Gallina,0.70,2.00,9,8,20,4
+Barcelona,Gallina,0.70,1.80,11,10,20,2
+Guadalajara,Gallina,0.70,2.20,7,10,21,4
+Girona,Gallina,0.70,2.30,8,5,22,1
+Ciudad Real,Gallina,0.70,2.30,12,9,23,1
+País Vasco,Gallina,0.70,2.00,9,6,24,2
+Lleida,Gallina,0.70,2.30,11,8,24,2
+Zamora,Gallina,0.70,1.60,8,10,24,3
+Huesca,Gallina,0.70,1.80,7,8,25,2
+Comunitat Valenciana,Cerdo,0.70,160,18,13,110,1
+Galicia,Cerdo,0.70,126,21,11,111,3
+Castilla y León,Cerdo,0.70,136,17,10,112,4
+Andalucía,Cerdo,0.70,137,18,16,112,4
+Castellón,Cerdo,0.70,130,20,12,113,5
+Asturias,Cerdo,0.70,143,15,16,115,1
+País Vasco,Cerdo,0.70,126,18,13,116,4
+Barcelona,Pato,0.68,1.02,6,4,27,4
+Zaragoza,Pato,0.68,0.82,14,8,29,4
+Málaga,Pato,0.67,1.02,4,12,26,2
+Valladolid,Pato,0.67,0.82,7,12,27,4
+Andalucía,Pato,0.67,0.92,6,9,28,3
+Murcia,Pato,0.67,1.32,7,10,29,1
+Gipuzkoa,Pato,0.65,0.82,14,9,29,4
+Palmas,Pato,0.65,1.32,13,10,29,2
+Badajoz,Pato,0.65,0.82,15,5,30,4
+Araba,Pato,0.64,0.82,9,9,26,4
+Valencia,Pato,0.64,0.92,14,10,26,2
+Cáceres,Pato,0.64,0.92,15,7,27,3
+Huesca,Pato,0.64,1.32,8,4,28,5
+Sevilla,Pato,0.64,1.12,7,12,30,5
+Granada,Pato,0.63,1.22,6,8,26,2
+Palencia,Pato,0.63,1.02,14,9,26,5
+Lugo,Pato,0.63,1.12,13,12,29,4
+Cantabria,Pato,0.62,0.92,13,8,26,2
+Asturias,Pato,0.62,1.02,4,12,27,4
+Albacete,Pato,0.62,1.02,12,8,29,4
+Segovia,Pato,0.62,1.12,10,10,29,1
+"Coruña, A",Pato,0.61,1.32,11,7,30,1
+Cataluña,Gallina,0.60,2.40,8,6,20,3
+Pontevedra,Gallina,0.60,1.80,11,7,20,1
+Granada,Gallina,0.60,2.10,6,9,20,1
+Balears,Gallina,0.60,1.70,10,10,20,2
+Tarragona,Gallina,0.60,2.00,12,7,21,4
+Cuenca,Gallina,0.60,2.20,5,8,23,1
+Navarra,Gallina,0.60,1.60,11,8,23,1
+Albacete,Gallina,0.60,1.70,12,7,24,3
+Segovia,Gallina,0.60,2.10,10,8,24,1
+Almería,Gallina,0.60,2.20,12,7,25,5
+Castellón,Gallina,0.60,2.30,8,9,25,3
+Cantabria,Cerdo,0.60,157,22,14,110,1
+Segovia,Cerdo,0.60,138,22,15,111,3
+Tarragona,Cerdo,0.60,136,19,12,112,2
+Jaén,Cerdo,0.60,133,21,10,113,3
+Córdoba,Cerdo,0.60,151,16,12,114,1
+Tarragona,Pato,0.60,1.12,10,4,28,3
+Cataluña,Pato,0.60,1.22,13,7,28,2
+Burgos,Pato,0.60,1.32,10,10,29,3
+Almería,Pato,0.59,1.02,9,4,26,5
+Girona,Pato,0.59,1.12,6,6,27,2
+Salamanca,Pato,0.59,1.32,5,11,27,1
+Guadalajara,Pato,0.59,0.92,8,11,28,3
+Zamora,Pato,0.57,1.02,5,11,28,4
+Balears,Pato,0.57,0.92,5,9,29,5
+Bizkaia,Pato,0.55,1.12,6,6,28,5
+Teruel,Pato,0.55,1.32,4,10,29,4
+Ávila,Pato,0.54,0.82,15,11,26,3
+Cuenca,Pato,0.54,1.12,13,11,28,4
+Jaén,Pato,0.54,0.92,6,12,28,1
+País Vasco,Pato,0.54,1.22,13,4,30,2
+Huelva,Pato,0.53,1.32,7,9,26,1
+Extremadura,Pato,0.53,1.32,15,6,27,3
+León,Pato,0.53,1.32,10,9,27,2
+Soria,Pato,0.53,1.22,4,9,29,4
+Ourense,Pato,0.52,1.32,13,6,27,5
+Canarias,Pato,0.52,0.82,8,10,28,2
+Madrid,Pato,0.52,1.12,7,4,29,5
+Alicante,Pato,0.51,1.32,10,7,29,1
+Comunitat Valenciana,Pato,0.51,1.22,14,8,29,5
+Galicia,Gallina,0.50,1.80,12,7,21,4
+Castilla y León,Gallina,0.50,2.00,6,10,21,4
+Ávila,Gallina,0.50,2.20,7,10,21,5
+Soria,Gallina,0.50,2.00,11,6,22,2
+Badajoz,Gallina,0.50,2.30,9,10,22,4
+Valencia,Gallina,0.50,1.90,7,9,23,1
+León,Gallina,0.50,2.20,8,5,25,2
+Huelva,Gallina,0.50,2.40,5,8,25,3
+Lleida,Pato,0.50,0.92,5,7,27,2
+Santa Cruz,Pato,0.50,0.92,7,10,27,3
+Castilla La Mancha,Pato,0.50,0.92,9,5,29,4
+Ciudad Real,Pato,0.50,1.12,15,10,30,3
+Castellón,Pato,0.49,1.32,8,12,26,2
+Navarra,Pato,0.49,0.92,7,6,29,3
+Galicia,Pato,0.47,1.02,10,8,26,2
+Aragón,Pato,0.47,0.82,10,8,27,4
+Pontevedra,Pato,0.47,0.92,8,5,30,4
+La Rioja,Pato,0.47,1.12,15,6,30,5
+Cádiz,Pato,0.46,1.32,12,12,26,3
+Córdoba,Pato,0.46,1.02,11,4,27,1
+Castilla y León,Pato,0.46,0.82,9,10,28,1
+Lleida,Conejo,0.45,1.90,8,11,31,1
+Cáceres,Conejo,0.45,2.30,11,13,31,2
+País Vasco,Conejo,0.44,2.10,10,11,28,3
+Gipuzkoa,Conejo,0.44,1.70,10,14,31,5
+Burgos,Conejo,0.44,2.40,10,13,32,3
+Galicia,Conejo,0.43,2.30,8,14,28,5
+La Rioja,Conejo,0.43,1.70,11,15,29,3
+Asturias,Conejo,0.43,1.80,11,10,30,2
+Albacete,Conejo,0.43,2.10,12,13,31,4
+Castellón,Conejo,0.42,2.40,8,12,28,3
+Valladolid,Conejo,0.42,2.00,11,14,35,4
+Pontevedra,Conejo,0.42,2.30,10,15,35,4
+Zamora,Conejo,0.41,1.50,8,10,33,2
+Córdoba,Conejo,0.40,2.40,9,10,33,4
+Balears,Conejo,0.40,2.30,12,14,34,5
+Andalucía,Gallina,0.40,2.00,12,8,20,5
+"Coruña, A",Gallina,0.40,2.30,10,10,21,4
+Córdoba,Gallina,0.40,2.00,12,10,21,1
+Bizkaia,Gallina,0.40,1.60,10,6,22,4
+Jaén,Gallina,0.40,2.10,8,7,22,3
+Extremadura,Gallina,0.40,2.00,12,8,22,5
+Cáceres,Gallina,0.40,1.80,5,5,23,3
+Sevilla,Gallina,0.40,1.90,5,8,23,1
+Castilla La Mancha,Gallina,0.40,1.60,11,10,23,4
+Araba,Gallina,0.40,2.10,9,5,25,3
+Comunitat Valenciana,Gallina,0.40,1.60,9,6,25,2
+León,Conejo,0.39,1.60,11,14,29,1
+Almería,Conejo,0.39,2.00,9,14,35,1
+Granada,Conejo,0.38,2.30,8,10,35,1
+Soria,Conejo,0.37,1.70,8,14,29,5
+Teruel,Conejo,0.37,2.40,8,10,31,3
+Huesca,Conejo,0.36,2.10,11,15,31,4
+Aragón,Conejo,0.36,1.70,10,14,33,5
+Palmas,Conejo,0.35,2.20,12,10,30,2
+Cataluña,Conejo,0.35,2.30,9,15,31,2
+Comunitat Valenciana,Conejo,0.33,2.00,10,14,31,4
+Badajoz,Conejo,0.33,2.10,8,13,33,1
+Palencia,Conejo,0.33,1.50,12,14,33,4
+Barcelona,Conejo,0.32,2.40,9,12,28,2
+Huelva,Conejo,0.32,2.10,9,11,29,5
+Cádiz,Conejo,0.32,2.40,12,11,31,3
+Extremadura,Conejo,0.32,1.80,11,13,31,2
+Lugo,Conejo,0.32,1.70,8,15,31,5
+"Coruña, A",Conejo,0.32,1.50,12,12,32,4
+Salamanca,Conejo,0.31,1.60,9,15,30,3
+Castilla y León,Conejo,0.31,1.70,12,11,35,2
+Segovia,Conejo,0.31,1.50,12,13,35,1
+Canarias,Gallina,0.30,2.10,7,5,20,5
+Zaragoza,Gallina,0.30,2.30,6,8,20,2
+Cádiz,Gallina,0.30,1.80,11,6,21,1
+Lugo,Gallina,0.30,1.70,6,8,21,5
+Palmas,Gallina,0.30,2.40,10,5,22,3
+Gipuzkoa,Gallina,0.30,2.30,9,6,22,2
+Aragón,Gallina,0.30,1.90,7,10,22,5
+Valladolid,Gallina,0.30,2.20,8,5,24,1
+Alicante,Gallina,0.30,2.20,12,7,24,2
+Asturias,Gallina,0.30,1.90,11,9,25,1
+Murcia,Gallina,0.30,1.80,12,10,25,4
+Castilla La Mancha,Conejo,0.30,2.30,8,13,31,3
+Málaga,Conejo,0.30,2.20,9,13,33,3
+Navarra,Conejo,0.30,2.00,11,13,34,3
+Cantabria,Conejo,0.29,2.00,8,14,32,3
+Alicante,Conejo,0.28,1.70,11,10,28,4
+Murcia,Conejo,0.28,2.10,11,12,30,3
+Ciudad Real,Conejo,0.28,1.70,8,14,34,5
+Ourense,Conejo,0.27,1.60,10,11,30,3
+Andalucía,Conejo,0.27,1.50,12,13,30,1
+Guadalajara,Conejo,0.27,1.60,9,13,31,1
+Cuenca,Conejo,0.26,2.30,9,10,28,1
+Sevilla,Conejo,0.26,1.60,8,10,32,1
+Ávila,Conejo,0.26,2.20,9,12,33,3
+Santa Cruz,Conejo,0.25,1.50,11,14,29,1
+Bizkaia,Conejo,0.25,1.60,10,15,35,5
+Girona,Conejo,0.24,1.70,10,10,29,3
+Madrid,Conejo,0.23,1.50,8,14,29,4
+Araba,Conejo,0.23,1.80,10,14,33,1
+Canarias,Conejo,0.22,1.70,11,10,30,4
+Zaragoza,Conejo,0.22,1.50,8,12,33,4
+Jaén,Conejo,0.21,1.90,11,10,31,1
+Valencia,Conejo,0.20,1.90,8,11,30,4
+Tarragona,Conejo,0.20,2.00,11,15,34,2
+Extremadura,Avestruz,1.80,93,38,2.0,45,3
+Sevilla,Avestruz,2.10,70,48,2.0,45,5
+Comunitat Valenciana,Avestruz,1.90,70,32,3.0,45,3
+Zamora,Avestruz,1.60,63,31,1.0,46,4
+Córdoba,Avestruz,1.60,105,43,1.0,46,4
+Galicia,Avestruz,2.20,105,49,2.0,46,2
+Santa Cruz,Avestruz,1.80,99,41,4.0,46,1
+Gipuzkoa,Avestruz,2.00,74,34,5.0,46,1
+Asturias,Avestruz,2.20,132,38,5.0,46,4
+Bizkaia,Avestruz,1.60,68,49,5.0,46,4
+Badajoz,Avestruz,1.80,143,46,2.0,47,3
+Balears,Avestruz,2.10,115,30,3.0,47,2
+Pontevedra,Avestruz,2.30,122,49,3.0,47,2
+Soria,Avestruz,1.90,119,49,4.0,47,2
+Burgos,Avestruz,1.80,60,33,2.0,48,1
+Aragón,Avestruz,1.90,150,48,2.0,48,5
+Valencia,Avestruz,2.00,90,38,5.0,48,1
+Tarragona,Avestruz,1.70,123,46,5.0,48,5
+Barcelona,Avestruz,2.00,119,47,5.0,48,5
+Andalucía,Avestruz,2.40,115,41,3.0,49,5
+Málaga,Avestruz,1.60,143,35,1.0,50,2
+Granada,Avestruz,2.30,130,40,2.0,50,2
+Navarra,Avestruz,2.00,63,47,2.0,50,4
+Araba,Bufalo,1.90,629,16,1,281,5
+Soria,Bufalo,2.60,616,19,1,282,3
+Balears,Bufalo,2.40,721,16,1,293,3
+Lleida,Bufalo,2.20,461,21,1,293,5
+Palencia,Bufalo,2.50,926,15,1,300,2
+Teruel,Bufalo,2.50,445,17,1,300,1
+Sevilla,Bufalo,2.70,742,20,1,303,4
+Badajoz,Bufalo,2.30,672,20,1,305,1
+Cuenca,Bufalo,2.30,605,16,1,311,2
+Almería,Bufalo,2.60,454,21,1,312,5
+Guadalajara,Bufalo,2.40,923,15,1,313,2
+Valladolid,Bufalo,2.60,396,16,1,313,2
+Murcia,Bufalo,2.00,827,16,1,314,1
+Córdoba,Bufalo,2.00,512,15,1,315,5
+Granada,Bufalo,2.70,684,17,1,316,2
+Zaragoza,Bufalo,2.60,986,20,2,319,3
+Navarra,Bufalo,2.20,808,15,1,320,5
+Málaga,Bufalo,2.40,711,16,1,323,1
+Cádiz,Bufalo,2.10,866,20,1,323,1
+Ávila,Bufalo,2.60,826,22,1,327,2
+Zamora,Bufalo,2.70,313,15,1,328,4
+Tarragona,Bufalo,2.40,725,20,1,328,2
+Alicante,Bufalo,2.50,346,17,1,330,2
+Albacete,Bufalo,2.40,455,16,1,331,4
